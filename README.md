@@ -13,12 +13,12 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 Dataset Description
 
 The dataset contains transactional data including:
-Invoice number
-Product description
-Quantity
-Invoice date
-Unit price
-Customer ID
+Invoice number,
+Product description,
+Quantity,
+Invoice date,
+Unit price,
+Customer ID,
 Country
 
 Objectives
@@ -30,15 +30,15 @@ Perform cohort analysis to evaluate customer retention
 Calculate business KPIs using SQL queries
 
 KPIs Analyzed
-Total Revenue
-Number of Transactions
-Number of Unique Customers
-Monthly Revenue Growth (and MoM %)
-Most profitable products
-Top products by quantity
-Top 10 customers by revenue
-Revenue by region
-Rolling Average revenue
-Active Customers
-Customer Retention Rate
-Cohort Analysis (Monthly Cohorts)
+Total Revenue,
+Number of Transactions,
+Number of Unique Customers,
+Monthly Revenue Growth (and MoM %),
+Most profitable products,
+Top products by quantity,
+Top 10 customers by revenue,
+Revenue by region,
+Rolling Average revenue,
+Active Customers,
+Customer Retention Rate,
+Cohort Analysis (Monthly Cohorts).
